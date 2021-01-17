@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "name": "Electronic Devices",
+    "path": "Electronic Devices,",
+    "slug": "electronic-devices"
+  },
+  {
+    "id": 2,
+    "name": "Mobiles",
+    "path": "Electronic Devices,Mobiles,",
+    "slug": "mobiles"
+  },
+  {
+    "id": 3,
+    "name": "Tablets",
+    "path": "Electronic Devices,Tablets,",
+    "slug": "tablets"
+  },
+  {
+    "id": 4,
+    "name": "Laptops",
+    "path": "Electronic Devices,Laptops,",
+    "slug": "laptops"
+  },
+  {
+    "id": 5,
+    "name": "Traditional Laptops",
+    "path": "Electronic Devices,Laptops,Traditional Laptops,",
+    "slug": "traditional-laptops"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Laptops",
+    "path": "Electronic Devices,Laptops,Gaming Laptops,",
+    "slug": "gaming-laptops"
+  },
+  {
+    "id": 7,
+    "name": "2-in-1s",
+    "path": "Electronic Devices,Laptops,2-in-1s,",
+    "slug": "2-in-1s"
+  },
+  {
+    "id": 8,
+    "name": "Electronic Accessories",
+    "path": "Electronic Accessories,",
+    "slug": "electronic-accessories"
+  },
+  {
+    "id": 9,
+    "name": "Mobile Accessories",
+    "path": "Electronic Accessories,Mobile Accessories,",
+    "slug": "mobile-accessories"
+  },
+  {
+    "id": 10,
+    "name": "Power Banks",
+    "path": "Electronic Accessories,Mobile Accessories,Power Banks,",
+    "slug": "power-banks"
+  },
+  {
+    "id": 11,
+    "name": "Cables & Converters",
+    "path": "Electronic Accessories,Mobile Accessories,Cables & Converters,",
+    "slug": "cables-and-converters"
+  },
+  {
+    "id": 12,
+    "name": "Smart Devices",
+    "path": "Electronic Accessories,Smart Devices,",
+    "slug": "smart-devices"
+  },
+  {
+    "id": 13,
+    "name": "Gadgets",
+    "path": "Electronic Accessories,Gadgets,",
+    "slug": "gadgets"
+  },
+  {
+    "id": 14,
+    "name": "TV & Home Appliances",
+    "path": "TV & Home Appliances,",
+    "slug": "tv-and-home-appliances"
+  },
+  {
+    "id": 15,
+    "name": "Health & Beauty",
+    "path": "Health & Beauty,",
+    "slug": "health-and-beauty"
+  },
+  {
+    "id": 16,
+    "name": "Babies & Toys",
+    "path": "Babies & Toys,",
+    "slug": "babies-and-toys"
+  },
+  {
+    "id": 17,
+    "name": "Groceries & Pets",
+    "path": "Groceries & Pets,",
+    "slug": "groceries-and-pets"
+  },
+  {
+    "id": 18,
+    "name": "Home & Lifestyle",
+    "path": "Home & Lifestyle,",
+    "slug": "home-and-lifestyle"
+  },
+  {
+    "id": 19,
+    "name": "Women's Fashion",
+    "path": "Women's Fashion,",
+    "slug": "womens-fashion"
+  },
+  {
+    "id": 20,
+    "name": "Men's Fashion",
+    "path": "Men's Fashion,",
+    "slug": "mens-fashion"
+  },
+  {
+    "id": 21,
+    "name": "Fashion Accessories",
+    "path": "Fashion Accessories,",
+    "slug": "fashion-accessories"
+  },
+  {
+    "id": 22,
+    "name": "Sports & Travel",
+    "path": "Sports & Travel,",
+    "slug": "sports-and-travel"
+  },
+  {
+    "id": 23,
+    "name": "Automotive & Motocycles",
+    "path": "Automotive & Motorcycles,",
+    "slug": "automotive-and-motorcycles"
+  }
+]
