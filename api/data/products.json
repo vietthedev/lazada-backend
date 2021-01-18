@@ -12,7 +12,7 @@
     "_pos_": 1,
     "height": 500,
     "categoryId": 8,
-    "category": "Electronic Accessories,Mobile Accessories,",
+    "category": "Electronic Accessories,",
     "slug": "qun-kaki-rach-cho-be-trai-nh-tht"
   },
   {
@@ -28,7 +28,7 @@
     "_pos_": 2,
     "height": 500,
     "categoryId": 17,
-    "category": "Home Lifestyle,",
+    "category": "Groceries & Pets,",
     "slug": "sleepsuit-jumpsuit-body-long-thu-2-lp-co-m-xut-nht-hang-cao-cp-body-m-cho-be-trai-be-gai-body-cho-be-mc-mua-dong"
   },
   {
@@ -44,7 +44,7 @@
     "_pos_": 3,
     "height": 500,
     "categoryId": 6,
-    "category": "Electronic Devices,Laptops,",
+    "category": "Electronic Devices,Laptops,Gaming Laptops,",
     "slug": "qun-lng-cho-be-mihababy-ql"
   },
   {
@@ -60,7 +60,7 @@
     "_pos_": 4,
     "height": 500,
     "categoryId": 11,
-    "category": "Electronic Accessories,Smart Devices,",
+    "category": "Electronic Accessories,Mobile Accessories,Cables & Converters,",
     "slug": "b-khan-m-len-2-lp-cho-be-t-s-sinh-dn-3-tui"
   },
   {
@@ -76,7 +76,7 @@
     "_pos_": 5,
     "height": 500,
     "categoryId": 14,
-    "category": "Health Beauty,",
+    "category": "TV & Home Appliances,",
     "slug": "b-m-va-khan-len-d-thng-baby-cho-be-loi-1"
   },
   {
@@ -92,7 +92,7 @@
     "_pos_": 6,
     "height": 500,
     "categoryId": 6,
-    "category": "Electronic Devices,Laptops,",
+    "category": "Electronic Devices,Laptops,Gaming Laptops,",
     "slug": "b-gile-be-trai-be-gai-sanh-diu-cho-be"
   },
   {
@@ -108,7 +108,7 @@
     "_pos_": 7,
     "height": 500,
     "categoryId": 16,
-    "category": "Groceries & Pets,",
+    "category": "Babies & Toys,",
     "slug": "body-long-gu-cho-be"
   },
   {
@@ -124,7 +124,7 @@
     "_pos_": 8,
     "height": 500,
     "categoryId": 15,
-    "category": "Babies & Toys,",
+    "category": "Health & Beauty,",
     "slug": "combo-3-ao-thun-trn-random-mau-little-princess-lp24"
   },
   {
@@ -156,7 +156,7 @@
     "_pos_": 10,
     "height": 500,
     "categoryId": 18,
-    "category": "Women's Fashion,",
+    "category": "Home & Lifestyle,",
     "slug": "combo-5-b-qun-ao-thun-cc-tay-cho-be"
   },
   {
@@ -172,7 +172,7 @@
     "_pos_": 11,
     "height": 500,
     "categoryId": 8,
-    "category": "Electronic Accessories,Mobile Accessories,",
+    "category": "Electronic Accessories,",
     "slug": "combo-5-qun-4-than-th-thao-mau-dm-qn14-mihababy"
   },
   {
@@ -204,7 +204,7 @@
     "_pos_": 13,
     "height": 500,
     "categoryId": 22,
-    "category": "Automotive & Motorcycles,",
+    "category": "Sports & Travel,",
     "slug": "ao-dai-cach-tan-be-trai-rng-xuan-2019"
   },
   {
@@ -220,7 +220,7 @@
     "_pos_": 14,
     "height": 500,
     "categoryId": 4,
-    "category": "Electronic Devices,Laptops,Traditional Laptops,",
+    "category": "Electronic Devices,Laptops,",
     "slug": "combo-3-b-tay-dai-bo-ra-day-3-mau-dm-bd05-mihababy"
   },
   {
@@ -236,7 +236,7 @@
     "_pos_": 15,
     "height": 500,
     "categoryId": 7,
-    "category": "Electronic Accessories,",
+    "category": "Electronic Devices,Laptops,2-in-1s,",
     "slug": "ao-choang-tr-em-han-quc"
   },
   {
@@ -252,7 +252,7 @@
     "_pos_": 16,
     "height": 500,
     "categoryId": 5,
-    "category": "Electronic Devices,Laptops,Gaming Laptops,",
+    "category": "Electronic Devices,Laptops,Traditional Laptops,",
     "slug": "bodusuit-tay-dai-d-in-noel-lbds03-rednoel2017-mihababy"
   },
   {
@@ -268,7 +268,7 @@
     "_pos_": 17,
     "height": 500,
     "categoryId": 12,
-    "category": "Electronic Accessories,Gadgets,",
+    "category": "Electronic Accessories,Smart Devices,",
     "slug": "giay-th-thao-li-cho-be-air"
   },
   {
@@ -284,7 +284,7 @@
     "_pos_": 18,
     "height": 500,
     "categoryId": 13,
-    "category": "TV & Home Appliances,",
+    "category": "Electronic Accessories,Gadgets,",
     "slug": "ao-thun-in-ch-cute-cho-be-gai-be-trai-lp01-ya-little-princess"
   },
   {
@@ -300,7 +300,7 @@
     "_pos_": 19,
     "height": 500,
     "categoryId": 20,
-    "category": "Fashion Accessories,",
+    "category": "Men's Fashion,",
     "slug": "combo-2-qun-gi-jean-cho-be-trai-va-gai-b60-co-bng-size-hinh-cui"
   },
   {
@@ -316,7 +316,7 @@
     "_pos_": 20,
     "height": 500,
     "categoryId": 13,
-    "category": "TV & Home Appliances,",
+    "category": "Electronic Accessories,Gadgets,",
     "slug": "qun-be-trai-be-gai-gi-jean-t-10-20kg"
   },
   {
@@ -332,7 +332,7 @@
     "_pos_": 21,
     "height": 500,
     "categoryId": 6,
-    "category": "Electronic Devices,Laptops,",
+    "category": "Electronic Devices,Laptops,Gaming Laptops,",
     "slug": "set-5-b-ba-l-chip-qua-tri-xinh-size-4-14kg-mu-mi"
   },
   {
@@ -348,7 +348,7 @@
     "_pos_": 22,
     "height": 500,
     "categoryId": 19,
-    "category": "Men's Fashion",
+    "category": "Women's Fashion,",
     "slug": "nhit-k-din-t-hng-ngoi-do-tran-thong-minh-da-chc-nang-cong-ngh-nht-bn-kmart"
   },
   {
@@ -364,7 +364,7 @@
     "_pos_": 23,
     "height": 500,
     "categoryId": 8,
-    "category": "Electronic Accessories,Mobile Accessories,",
+    "category": "Electronic Accessories,",
     "slug": "set-5-b-chip-hinh-meo-cho-be"
   },
   {
@@ -380,7 +380,7 @@
     "_pos_": 24,
     "height": 500,
     "categoryId": 14,
-    "category": "Health & Beauty,",
+    "category": "TV & Home Appliances,",
     "slug": "ao-s-mi-cho-be-trai"
   },
   {
@@ -396,7 +396,7 @@
     "_pos_": 25,
     "height": 500,
     "categoryId": 17,
-    "category": "Home & Lifestyle,",
+    "category": "Groceries & Pets,",
     "slug": "b-vest-be-trai-di-chi-di-tic-kem-ao-s-mi-trng-hang-bao-dp"
   },
   {
@@ -412,7 +412,7 @@
     "_pos_": 26,
     "height": 500,
     "categoryId": 19,
-    "category": "Men's Fashion,",
+    "category": "Women's Fashion,",
     "slug": "b-thun-be-trai-sat-nach-gi-vest-gn-n-mau-trn-bt614"
   },
   {
@@ -428,7 +428,7 @@
     "_pos_": 27,
     "height": 500,
     "categoryId": 4,
-    "category": "Electronic Devices,Laptops,Traditional Laptops,",
+    "category": "Electronic Devices,Laptops,",
     "slug": "b-5-ao-ba-l-5-mau-in-atl06-mihababy"
   },
   {
@@ -444,7 +444,7 @@
     "_pos_": 28,
     "height": 500,
     "categoryId": 5,
-    "category": "Electronic Devices,Laptops,Gaming Laptops,",
+    "category": "Electronic Devices,Laptops,Traditional Laptops,",
     "slug": "set-5-body-dai-tay-body-chip-body-suit-dai-tay-cho-be-trai-0-24-thang-hang-xut-d-made-in-cambodia-chn-mu-ngu-nhien"
   },
   {
@@ -460,7 +460,7 @@
     "_pos_": 29,
     "height": 500,
     "categoryId": 6,
-    "category": "Electronic Devices,Laptops,",
+    "category": "Electronic Devices,Laptops,Gaming Laptops,",
     "slug": "dai-gen-nt-bng-qun-nong-eo-thon-cao-cp-gen-nt-bng-sau-sinh-6-6t"
   },
   {
@@ -476,7 +476,7 @@
     "_pos_": 30,
     "height": 500,
     "categoryId": 14,
-    "category": "Health & Beauty,",
+    "category": "TV & Home Appliances,",
     "slug": "dai-di-xe-may-an-toan-cho-be-hang-vit-nam"
   }
 ]
