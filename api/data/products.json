@@ -108,7 +108,7 @@
     "_pos_": 7,
     "height": 500,
     "categoryId": 16,
-    "category": "Groceries Pets,",
+    "category": "Groceries & Pets,",
     "slug": "body-long-gu-cho-be"
   },
   {
@@ -124,7 +124,7 @@
     "_pos_": 8,
     "height": 500,
     "categoryId": 15,
-    "category": "Babies Toys,",
+    "category": "Babies & Toys,",
     "slug": "combo-3-ao-thun-trn-random-mau-little-princess-lp24"
   },
   {
@@ -156,7 +156,7 @@
     "_pos_": 10,
     "height": 500,
     "categoryId": 18,
-    "category": "Womens Fashion,",
+    "category": "Women's Fashion,",
     "slug": "combo-5-b-qun-ao-thun-cc-tay-cho-be"
   },
   {
@@ -204,7 +204,7 @@
     "_pos_": 13,
     "height": 500,
     "categoryId": 22,
-    "category": "Automotive Motorcycles,",
+    "category": "Automotive & Motorcycles,",
     "slug": "ao-dai-cach-tan-be-trai-rng-xuan-2019"
   },
   {
@@ -284,7 +284,7 @@
     "_pos_": 18,
     "height": 500,
     "categoryId": 13,
-    "category": "TV Home Appliances,",
+    "category": "TV & Home Appliances,",
     "slug": "ao-thun-in-ch-cute-cho-be-gai-be-trai-lp01-ya-little-princess"
   },
   {
@@ -316,7 +316,7 @@
     "_pos_": 20,
     "height": 500,
     "categoryId": 13,
-    "category": "TV Home Appliances,",
+    "category": "TV & Home Appliances,",
     "slug": "qun-be-trai-be-gai-gi-jean-t-10-20kg"
   },
   {
@@ -348,7 +348,7 @@
     "_pos_": 22,
     "height": 500,
     "categoryId": 19,
-    "category": "Mens Fashion",
+    "category": "Men's Fashion",
     "slug": "nhit-k-din-t-hng-ngoi-do-tran-thong-minh-da-chc-nang-cong-ngh-nht-bn-kmart"
   },
   {
@@ -380,7 +380,7 @@
     "_pos_": 24,
     "height": 500,
     "categoryId": 14,
-    "category": "Health Beauty,",
+    "category": "Health & Beauty,",
     "slug": "ao-s-mi-cho-be-trai"
   },
   {
@@ -396,7 +396,7 @@
     "_pos_": 25,
     "height": 500,
     "categoryId": 17,
-    "category": "Home Lifestyle,",
+    "category": "Home & Lifestyle,",
     "slug": "b-vest-be-trai-di-chi-di-tic-kem-ao-s-mi-trng-hang-bao-dp"
   },
   {
@@ -412,7 +412,7 @@
     "_pos_": 26,
     "height": 500,
     "categoryId": 19,
-    "category": "Mens Fashion,",
+    "category": "Men's Fashion,",
     "slug": "b-thun-be-trai-sat-nach-gi-vest-gn-n-mau-trn-bt614"
   },
   {
@@ -476,7 +476,7 @@
     "_pos_": 30,
     "height": 500,
     "categoryId": 14,
-    "category": "Health Beauty,",
+    "category": "Health & Beauty,",
     "slug": "dai-di-xe-may-an-toan-cho-be-hang-vit-nam"
   }
 ]
